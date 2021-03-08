@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\bin\Debug\Conversor.exe
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\bin\Debug\Conversor.pdb
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\obj\Debug\Conversor.frmConversor.resources
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\obj\Debug\Conversor.exe
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\obj\Debug\Conversor.pdb
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\bin\Debug\Entidades.dll
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\bin\Debug\Entidades.pdb
+C:\Users\Pedro\Desktop\Proyecto Conversor\Entidades\Conversor\obj\Debug\Conversor.csproj.CopyComplete
